@@ -38,7 +38,7 @@ s3는 기본적으로 인터넷과 소통할 수 있는 대용량 객체 스토�
 버킷을 만들었으면 `정적 웹 사이트 호스팅` 설정을 해줘야해요. 
 편집 버튼을 눌러서 활성화를 시켜주시고 인덱스 문서에 `index.html` 이라고 적어주고 저장해주세요.
 
-![Alt text](./images/s5.png)
+![Alt text](../images/s5.png)
 
 **Bucket 정첵 수정**<br>
 권한->버킷 정책->편집->정책 생성기를 클릭하시면 아래의 화면이 뜨는데<br>
@@ -47,40 +47,40 @@ s3는 기본적으로 인터넷과 소통할 수 있는 대용량 객체 스토�
 - Action : `어떠한 액션을 줄거냐인데 매우 많기에 이번엔 ALL Services를 체크해줍시다`
 - Amazon Resource Name (ARN) : `전 화면에 나온 ARN 을 컨 c 컨v 해줍시다`
 
-![Alt text](./images/s8.png)
+![Alt text](../images/s8.png)
 화면을 내려 `Generate Policy` 를 클릭하시면 아래처럼 `json`으로 변환되는데요
-![Alt text](./images/s9.png)
+![Alt text](../images/s9.png)
 이걸 그대로 정책에다가 붙여넣기 해주시면돼요. 근데 저걸 그대로 입력하면 퍼징이 되지 않아요! 이걸 해결하기 위해선 `Resource` 뒤쪽에 `/*` 를 붙여주면 해결!
-![Alt text](./images/s11.png)
+![Alt text](../images/s11.png)
 
 
 위의 과정을 다 하셨으면 업로드 버튼을 눌러 html 파일을 업로드해주세요!
-![Alt text](./images/s3.png)
+![Alt text](../images/s3.png)
 
 업로드를 마치시고 버킷에 업로드한 파일을 클릭하신 다음 객체 URL 을 클릭하시면
 
 짠! 업로드한 html이 나타납니다!
-![Alt text](./images/tf.png)
+![Alt text](../images/tf.png)
 
 ## Cloud Front
 `배포 생성`을 누른 뒤 도메인을 선택해줘요. 클릭하면 아까 만든 버킷이 자동적으로 뜰건데 그걸 선택해주시면돼요.
-![Alt text](./images/s14.png)
+![Alt text](../images/s14.png)
 
 이후 다른 설정들은 모두 기본값으로 설정하고 `배포 생성`을 눌러주세요
 
 이제 클라우드 프론트로 불러오는 링크테스트를 하기 위해서 img 태그에 저희가 만든 도메인 네임을 넣어줘요.
-![Alt text](./images/s15.png)
+![Alt text](../images/s15.png)
 (로고 이미지)
 
 바꿔주시고 다시 `s3 bucket` 으로 가셔서 링크 테스트를 할 `html` 파일을 올려주세요 올리고 나서 들어가보면?
 
-![Alt text](././images/s16.png)
+![Alt text](../images/s16.png)
 
 
 링크 테스트가 잘된걸 알 수 있습니다!
 
 캐싱된 컨텐츠를 불러오는게 맞는지를 확인 하는 방법은 크롬 개발자 도구를 키시고 새로고침을 하시면 알 수 있어요!
-![Alt text](./images/s18.png)
+![Alt text](../images/s18.png)
 
 
 ## 글을 마치며
