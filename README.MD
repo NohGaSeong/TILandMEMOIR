@@ -22,4 +22,4 @@
 
 ### 한눈에 보기
 ## 인프런
-- Amazon S3로 서버없는 정적 웹 호스팅 구축
+- <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/Inflearn/ServerlessWebhosting.md">Amazon S3로 서버없는 정적 웹 호스팅 구축</a>
