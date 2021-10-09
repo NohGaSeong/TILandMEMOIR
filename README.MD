@@ -21,6 +21,6 @@
 - 본인 또는 다른 사람이 해당 문서를 다시 봤을 때, 추가적인 검색의 비용이 들지 않도록 자세히 기록한다.
 
 ### 한눈에 보기
-## 클라우드
-# 인프런 
+#### 클라우드
+##### 인프런 
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/Inflearn/ServerlessWebhosting.md">Amazon S3로 서버없는 정적 웹 호스팅 구축</a>
