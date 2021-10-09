@@ -47,9 +47,9 @@ s3는 기본적으로 인터넷과 소통할 수 있는 대용량 객체 스토�
 - Action : `어떠한 액션을 줄거냐인데 매우 많기에 이번엔 ALL Services를 체크해줍시다`
 - Amazon Resource Name (ARN) : `전 화면에 나온 ARN 을 컨 c 컨v 해줍시다`
 
-![Alt text]https://github.com/NohGaSeong/TIL/blob/main/Cloud/Inflearn/images/s8.png)
+![Alt text](https://github.com/NohGaSeong/TIL/blob/main/Cloud/Inflearn/images/s8.png)
 화면을 내려 `Generate Policy` 를 클릭하시면 아래처럼 `json`으로 변환되는데요
-![Alt text]https://github.com/NohGaSeong/TIL/blob/main/Cloud/Inflearn/images/s9.png)
+![Alt text](https://github.com/NohGaSeong/TIL/blob/main/Cloud/Inflearn/images/s9.png)
 이걸 그대로 정책에다가 붙여넣기 해주시면돼요. 근데 저걸 그대로 입력하면 퍼징이 되지 않아요! 이걸 해결하기 위해선 `Resource` 뒤쪽에 `/*` 를 붙여주면 해결!
 ![Alt text](https://github.com/NohGaSeong/TIL/blob/main/Cloud/Inflearn/images/s11.png)
 
