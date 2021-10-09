@@ -38,7 +38,7 @@ s3는 기본적으로 인터넷과 소통할 수 있는 대용량 객체 스토�
 버킷을 만들었으면 `정적 웹 사이트 호스팅` 설정을 해줘야해요. 
 편집 버튼을 눌러서 활성화를 시켜주시고 인덱스 문서에 `index.html` 이라고 적어주고 저장해주세요.
 
-![Alt text](https://github.com/NohGaSeong/TIL/blob/main/Cloud/Inflearn/images/s5.png)
+![s5](https://user-images.githubusercontent.com/82383294/136656417-8650cd2a-3bc8-4639-a79c-9d846b1dcd5f.PNG)
 
 **Bucket 정첵 수정**<br>
 권한->버킷 정책->편집->정책 생성기를 클릭하시면 아래의 화면이 뜨는데<br>
@@ -47,40 +47,40 @@ s3는 기본적으로 인터넷과 소통할 수 있는 대용량 객체 스토�
 - Action : `어떠한 액션을 줄거냐인데 매우 많기에 이번엔 ALL Services를 체크해줍시다`
 - Amazon Resource Name (ARN) : `전 화면에 나온 ARN 을 컨 c 컨v 해줍시다`
 
-![Alt text](https://github.com/NohGaSeong/TIL/blob/main/Cloud/Inflearn/images/s8.png)
+![s8](https://user-images.githubusercontent.com/82383294/136656420-7b577319-5b84-4e5d-952d-07bab2954542.PNG)
 화면을 내려 `Generate Policy` 를 클릭하시면 아래처럼 `json`으로 변환되는데요
-![Alt text](https://github.com/NohGaSeong/TIL/blob/main/Cloud/Inflearn/images/s9.png)
+![s9](https://user-images.githubusercontent.com/82383294/136656421-b91bbf28-c7c2-419d-9c77-8681b14890da.PNG)
 이걸 그대로 정책에다가 붙여넣기 해주시면돼요. 근데 저걸 그대로 입력하면 퍼징이 되지 않아요! 이걸 해결하기 위해선 `Resource` 뒤쪽에 `/*` 를 붙여주면 해결!
-![Alt text](https://github.com/NohGaSeong/TIL/blob/main/Cloud/Inflearn/images/s11.png)
+![s11](https://user-images.githubusercontent.com/82383294/136656423-fff5830f-2c6f-4359-8e3e-ab7e03542269.PNG)
 
 
 위의 과정을 다 하셨으면 업로드 버튼을 눌러 html 파일을 업로드해주세요!
-![Alt text](https://github.com/NohGaSeong/TIL/blob/main/Cloud/Inflearn/images/s3.png)
+![s3](https://user-images.githubusercontent.com/82383294/136656415-3e0fb6a3-2336-4632-8cb1-8e56698232ca.png)
 
 업로드를 마치시고 버킷에 업로드한 파일을 클릭하신 다음 객체 URL 을 클릭하시면
 
 짠! 업로드한 html이 나타납니다!
-![Alt text](https://github.com/NohGaSeong/TIL/blob/main/Cloud/Inflearn/images/tf.png)
+![tf](https://user-images.githubusercontent.com/82383294/136656429-514a14d9-fa60-46be-a68a-aea227e17dfd.PNG)
 
 ## Cloud Front
 `배포 생성`을 누른 뒤 도메인을 선택해줘요. 클릭하면 아까 만든 버킷이 자동적으로 뜰건데 그걸 선택해주시면돼요.
-![Alt text](https://github.com/NohGaSeong/TIL/blob/main/Cloud/Inflearn/images/s14.png)
+![s14](https://user-images.githubusercontent.com/82383294/136656424-18d62d6f-889d-4ac6-a6c3-a6cc4af545d6.PNG)
 
 이후 다른 설정들은 모두 기본값으로 설정하고 `배포 생성`을 눌러주세요
 
 이제 클라우드 프론트로 불러오는 링크테스트를 하기 위해서 img 태그에 저희가 만든 도메인 네임을 넣어줘요.
-![Alt text](https://github.com/NohGaSeong/TIL/blob/main/Cloud/Inflearn/images/s15.png)
+![s15](https://user-images.githubusercontent.com/82383294/136656425-2256ac68-191b-47a4-bf05-b1e46f533ba4.PNG)
 (로고 이미지)
 
 바꿔주시고 다시 `s3 bucket` 으로 가셔서 링크 테스트를 할 `html` 파일을 올려주세요 올리고 나서 들어가보면?
 
-![Alt text](https://github.com/NohGaSeong/TIL/blob/main/Cloud/Inflearn/images/s16.png)
+![s16](https://user-images.githubusercontent.com/82383294/136656426-98db00e4-a12d-460d-beec-058bb24b20b0.PNG)
 
 
 링크 테스트가 잘된걸 알 수 있습니다!
 
 캐싱된 컨텐츠를 불러오는게 맞는지를 확인 하는 방법은 크롬 개발자 도구를 키시고 새로고침을 하시면 알 수 있어요!
-![Alt text](https://github.com/NohGaSeong/TIL/blob/main/Cloud/Inflearn/images/s18.png)
+![s18](https://user-images.githubusercontent.com/82383294/136656427-574c8af8-6c98-464a-bea9-77d83f0d8083.PNG)
 
 
 ## 글을 마치며
