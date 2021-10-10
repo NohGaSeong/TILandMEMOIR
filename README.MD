@@ -24,4 +24,4 @@
 ### 클라우드
 #### 인프런 
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/Inflearn/ServerlessWebhosting.md">Amazon S3로 서버없는 정적 웹 호스팅 구축</a>
-- <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/Inflearn/Ec2-Lamp-Elb.md"EC2-LAMP-ELB 구성하기</
+- <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/Inflearn/Ec2-Lamp-Elb.md"EC2-LAMP-ELB 구성하기</a>
