@@ -4,7 +4,8 @@
 
 > `TIL` 이란?<br/>
 
-> `TIL` 이란 `Today I Learn` 의 줄임말로 한국말로 직역하면 오늘 내가 배운 것! 이라는 뜻이죠.😋오늘 공부 한 내용을 매일매일 기록하는 방법이에요.😘
+> `TIL` 이란 `Today I Learn` 의 줄임말로 한국말로 직역하면 오늘 내가 배운 것! 이라는 뜻이죠.😋<br>
+오늘 공부 한 내용을 매일매일 기록하는 방법이에요.😘
 
 ### 작성하게된 계기?
 
@@ -22,7 +23,10 @@
 
 ## 한눈에 보기
 ### 클라우드
+
+<a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/Inflearn/VpcNetworks.md">VPC 네트워크에 대해 알아봅시다</a>
 #### 인프런 
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/Inflearn/ServerlessWebhosting.md">Amazon S3로 서버없는 정적 웹 호스팅 구축</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/Inflearn/Ec2-Lamp-Elb.md">EC2-LAMP-ELB 구성하기</a>
-- <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/Inflearn/VpcNetworks.md">VPC 네트워크에 대해 알아봅시다</a>
+
+
