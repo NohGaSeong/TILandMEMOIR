@@ -3,10 +3,10 @@
 ## VPC보단 VPN 을 먼저 알아가자.
  VPN은 한국어로 "가상사설망" 으로 해석할 수 있습니다. "가상" 이라는 단어에서 알 수 있듯이 실제 사설망이 아닌 가상의 사설망입니다.
 
-![v1](https://user-images.githubusercontent.com/82383294/136776100-e12c10a7-c3b1-4b7f-a060-28205583186b.png)
+![v1](https://user-images.githubusercontent.com/82383294/136776100-e12c10a7-c3b1-4b7f-a060-28205583186b.png)<br>
 한 건물의 네트워크가 위의 사진처럼 구성되어있는데 보안상 등의 이유로 직원간 네트워크를 분리하고 싶으면 건물의 인터넷 선공사며 내부선이며 다 뜯어 고쳐야하는데 이런 번거로움을 덜어내기 위해서 가상의 사설망인 `VPN`을 사용합니다.
 
-![v2](https://user-images.githubusercontent.com/82383294/136776104-637f3693-b436-4026-9c2c-8bafbf55b3ea.png)
+![v2](https://user-images.githubusercontent.com/82383294/136776104-637f3693-b436-4026-9c2c-8bafbf55b3ea.png)<br>
 AB가 있는 네트워크와 CD가 있는 네트워크는 실제로 같은 네트워크 상에 있지만 논리적으로는 다른 네트워크인것처럼 동작합니다. 이걸 우리는 `가상 사설망`이라 부르기로 약속했어요.
 
 ## VPC(Virtual Private Cloud)
