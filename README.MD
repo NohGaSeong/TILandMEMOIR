@@ -35,4 +35,4 @@
 #### CSS
 #### JS
 #### React
-- <a href = "">React 기초 다시 짚고가기</a>
+- <a href = "">컴포넌트와 props</a>
