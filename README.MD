@@ -35,8 +35,8 @@
 #### CSS
 #### JS
 #### React
-- <a href = "">컴포넌트와 props</a>
-- <a href = "">Hook </a>
+- <a href = "https://github.com/NohGaSeong/TIL/blob/main/Web/React/Component.md">컴포넌트와 props</a>
+- <a href = "https://github.com/NohGaSeong/TIL/blob/main/Web/React/Hooks.md">Hook </a>
 
 ### 자바
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Java/AbstractClass.md">추상 클래스</a>
