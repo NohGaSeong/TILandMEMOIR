@@ -28,6 +28,8 @@
 #### 인프런 
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/Inflearn/ServerlessWebhosting.md">Amazon S3로 서버없는 정적 웹 호스팅 구축</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/Inflearn/Ec2-Lamp-Elb.md">EC2-LAMP-ELB 구성하기</a>
+- <a href = ">
+- <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/Inflearn/RDSforMySQL.md">RDS for MySQL 생성하기</a>
 #### React
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Web/React/Component.md">컴포넌트와 props</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Web/React/Hook.md">Hook </a>
