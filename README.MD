@@ -32,6 +32,8 @@
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Web/React/Component.md">컴포넌트와 props</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Web/React/Hook.md">Hook </a>
 
+### JS
+- <a href = "https://github.com/NohGaSeong/TIL/blob/main/Web/JavaScript/Slide.md">슬라이드 구현</
 ### 자바
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Java/AbstractClass.md">추상 클래스</a>
 
