@@ -1,6 +1,7 @@
 # JS 슬라이드 구현하기.
 
-`var slideWrapper = document.querySelector('.container');
+```
+var slideWrapper = document.querySelector('.container');
 var slides = document.querySelectorAll('.item');
 var totalSlides = slides.length; // item의 갯수
 
@@ -22,7 +23,8 @@ function showSlides() {
         slideIndex = 0;
     }
     setTimeout(showSlides, 2000);  //넘어가는 시간
-}`
+}
+```
 
 ## 아쉬운 점
 마지막에서 다시 처음으로 갈떄 왼쪽으로 슉하고 넘어가는게 아쉬웠음. 다음엔 이걸 수정해서 한쪽 방향으로만 가게 해볼 예정.
