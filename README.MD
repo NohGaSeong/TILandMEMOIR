@@ -36,5 +36,6 @@
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Web/JavaScript/Slide.md">슬라이드 구현</a>
 ### 자바
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Java/AbstractClass.md">추상 클래스</a>
+- <a href = "https://github.com/NohGaSeong/TIL/blob/main/Java/Exception.md">예외 및 예외처리 방법</a>
 
 ### 자료구조
