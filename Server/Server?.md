@@ -55,5 +55,5 @@
     거기 해당하는 list.html 파일을 보내줌
 
     //이럼 멋진 서버 개발 끝!
-    //이걸 Node.js 를 이용해서 JavaScript문법으로 서버를 짤거에요.
+    //이걸 Node.js 를 이용해서 JavaScript문법으로 서버를 짤거에요!
 ```
