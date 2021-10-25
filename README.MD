@@ -39,4 +39,4 @@
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Java/Exception.md">예외 및 예외처리 방법</a>
 
 ### Server
-- <a href = "https://github.com/NohGaSeong/TIL/blob/main/BackEnd/Server?.md>서버란?</a>
+- <a href = "https://github.com/NohGaSeong/TIL/blob/main/BackEnd/Server?.md">서버란?</a>
