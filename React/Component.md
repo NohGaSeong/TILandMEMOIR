@@ -52,7 +52,7 @@ JS 함수 ==> `함수형 컴포넌트`
 함수형 컴포넌트로 하지 못하는 작업을 처리할 때 ES6 class를 사용한 `클래스형 컴포넌트`를 활용한다.
 
 ## 마치며
-학교 인터넷으로 도대체 왜 리엑트 공식문서에 들어가지지 않는지.. 참.. 
+학교 인터넷으로 도대체 왜 리엑트 공식문서에 들어가지지 않는지.. 참...
 
 ## 참조
 <a href = "https://reactjs-kr.firebaseapp.com/docs/state-and-lifecycle.html">React 공식문서</a><br>
