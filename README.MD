@@ -36,8 +36,8 @@
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Web/JavaScript/Slide.md">슬라이드 구현</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/JavaScript/JS%20%EA%B8%B0%EC%B4%88%201.md">Js기초-1 </a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/JavaScript/JS%20%EA%B8%B0%EC%B4%88%202.md">Js기초-2 </a>
-- <a href = "https://github.com/NohGaSeong/TIL/blob/main/JavaScript/JS%20%EA%B8%B0%EC%B4%88%203.md">Js기초-3 </a>
-- <a href = "https://github.com/NohGaSeong/TIL/blob/main/JavaScript/JS%20%EA%B8%B0%EC%B4%88%204.md">Js기초-4 </a>
+- <a href = "https://github.com/NohGaSeong/TIL/blob/main/JavaScript/Js%20%EA%B8%B0%EC%B4%88%203.md">Js기초-3 </a>
+- <a href = "https://github.com/NohGaSeong/TIL/blob/main/JavaScript/Js%20%EA%B8%B0%EC%B4%88%204.md">Js기초-4 </a>
 ### 자바
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Java/AbstractClass.md">추상 클래스</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Java/Exception.md">예외 및 예외처리 방법</a>
