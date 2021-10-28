@@ -149,4 +149,55 @@ arr.unshift() : 배열 앞에 추가
 ```
 
 ## 정리
-                                           
+
+변수를 만들 수 있고
+```
+    const name = 'Mike';
+    let age = 30;
+```
+자료형을 이해 가능하며
+```
+    Boolean
+    NULL
+    Underfined
+    Number
+    String
+    Object
+```
+콘솔로 값 확인이 가능하고 사용자들이 원하는 값을 입력받을 수 있습니다.
+```
+    console.log(name);
+    alert(age);
+    prompt('생년월일을 입력하세요.');
+    confirm('삭제 하시겠습니까?);
+```
+연산자와 조건문으로 상황 대응이 가능하고
+```
+    if(user.name && user.age > 19){
+        console.log('성입 입니다.');
+    }else{
+        return false;
+    }
+```
+
+반복문으로 힘들지 않고 동일한 작업이 가능합니다.
+```
+    for(let i =0 ; i<10; i++){
+        console.log(i);
+    }
+```
+함수와 객체, 배열에 대해서도 알 수 있습니다.
+```
+    function add(num1,num2){
+        console.log(num1+num2);
+    }
+
+    const user = {
+        name : 'Mike',
+        age: 30,
+    }
+
+    const users = ['Mike','Jane'];
+```
+
+이제 중급에선 좀더 빡씨게 JS를 해봅시다.
