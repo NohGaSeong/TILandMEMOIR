@@ -52,7 +52,7 @@ Ipv4 CIDR 블록 _ `서브넷 이상으로 가장 큰 아이피 범위를 선언
     :10.0.0.0/16
 
 나머지는 기본값으로 설정해주세요. <br>
-![Alt text](VPC_NAT/n1.png)<br>
+![n1](https://user-images.githubusercontent.com/82383294/139214374-192b485e-a33c-41e8-a95a-1e004fdbafc8.png)<br>
 짠 ~ 잘 만들어졌죠? 그러면 이제 서브넷을 생성할건데요 서브넷은 총 6개 , 퍼블릭 2개 , 프라이빗 4개를 생성할거에요. 왼쪽 메뉴에서 서브넷을 선택해주세요
 
 ### 서브넷
@@ -66,7 +66,7 @@ IPv4 CIDR 블록 _ 10.0.1.0/24<br>
 
 이렇게 2a를 만들어줬으면 2a 를 2c로 바꾸고 IPv4 CIDR 블록도 10.0.2.0/24 로 수정한 `lab-web-pub2-2c` 도 만들어주세요!
 
-![Alt text](VPC_NAT/n2.png)
+![n2](https://user-images.githubusercontent.com/82383294/139214377-f6db2516-557a-4427-b0b8-5c13ccf35b05.png)
 
 이렇게해서 Public 2개가 만들어졌어요. 이제 public 2개를 만들었으니까 private 4개도 만들어야겠죠?
 
@@ -76,7 +76,7 @@ IPv4 CIDR 블록 _ 10.0.1.0/24<br>
 
 이렇게 Private 4개를 마저 만들어서 Public 서브넷 2개, Private 4개를 만들어주시면돼요.
 
-![Alt text](VPC_NAT/n3.png)
+![n3](https://user-images.githubusercontent.com/82383294/139214379-5a6aac03-0f21-459c-91c1-62121352dee7.png)
 
 ## Internet Gateway 및 Route Table 구성
 
@@ -106,12 +106,11 @@ IPv4 CIDR 블록 _ 10.0.1.0/24<br>
 
 2번째 대상 : 인터넷 게이트웨이를 선택해주시고 저희가 만든 인터넷 게이트웨이를 선택해주시면돼요.
 
-![Alt text](VPC_NAT/n4.png)<br>
+![n4](https://user-images.githubusercontent.com/82383294/139214382-74d3573a-4fda-4064-9cc2-98e504b5feeb.png)<br>
 이렇게 입력을 하셨으면 저장해주세요.
 
 이제 라우팅 테이블을 타고 나갈 서브넷을 선택해야하는데 라우팅 옆에 서브넷 연결 -> 서브넷 연결 편집을 눌러 저희가 만들었는 퍼블릭 서브넷 2개를 선택해주세요.
-
-![Alt text](VPC_NAT/n5.png)
+![n5](https://user-images.githubusercontent.com/82383294/139214361-ca26d0a1-49a7-400e-8fff-2219285a3209.png)
 이렇게 지정을 해주셨으면 이제 프라이빗 라우팅 테이블도 만들어야겠죠?
 
 라우팅 테이블 생성을 눌러 프라이빗 라우팅 테이블을 만들어주세요.
@@ -139,19 +138,19 @@ vpc에 프라이빗 서브넷에 있는 aws 리소스가 인터넷에서 트래�
 이렇게 설정을 마치고 NAT 게이트웨이를 생성해주세요.
 
 2a 를 만들었으니까 2c 도 만들어야겠죠? 2c 도 똑같은 방식으로 만들어주세요.
-![Alt text](VPC_NAT/n6.png)<br>
+![n6](https://user-images.githubusercontent.com/82383294/139214364-2072be0a-b30d-4152-89be-f418ec8d315a.png)<br>
 이렇게 2개를 만들었으면 아까 말한대로 프라이빗 라우팅 테이블도 하나 더 만들어야겠죠?
 
 우선 아까만든 private 라우팅 테이블의 이름을 `-2a` 를 넣어 수정해주시고 2a 를 제외한 서브넷을 빼주세요.
-![Alt text](VPC_NAT/n7.png)<br>
+![n7](https://user-images.githubusercontent.com/82383294/139214365-34478c13-d6fd-46e5-9970-7691fdc2cabf.png)<br>
 이렇게요! 그리고 이제 저희가 2a 라우팅 테이블을 만든 것처럼 하나 만들어주세요.
 
 이렇게 프라이빗 용으로 라우팅 테이블을 2개 만드는 이유는 특정한 가용영역에 장애가 나면 한쪽은 정상적으로 서비스가 되어야되기 때문에 이렇게 2개를 둬서 트래픽이 흐르도록 구성하는겁니다.
 
-![Alt text](VPC_NAT/n8.png)<br>
+![n8](https://user-images.githubusercontent.com/82383294/139214368-645d636b-794f-4852-b374-c200ad34439e.png))<br>
 
 이제 다시 나트게이트웨이를 가서 확인을 해보시면
-![Alt text](VPC_NAT/n9.png)<br>
+-![n9](https://user-images.githubusercontent.com/82383294/139214370-f1bfa553-0d5d-4cf4-8587-ece94a8c1b3c.png)<br>
 짠 잘 됐죠?
 
 ## Bastion 및 NAT Gateway를 통한 Private 영역 EC2의 외부 인터넷 통신
