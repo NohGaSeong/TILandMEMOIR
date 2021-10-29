@@ -26,7 +26,7 @@
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/VpcNetworks.md">VPC 네트워크에 대해 알아봅시다</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/ServerlessWebhosting.md">Amazon S3로 서버없는 정적 웹 호스팅 구축</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/Ec2-Lamp-Elb.md">EC2-LAMP-ELB 구성하기</a>
-- <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/VPC_and_Bastion.md">VPC 와 중계 서버(Bastion) 구성하기</a>
+- <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/VPC_and_Bastion.md">VPC와 중계 서버(Bastion) 구성하기</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/RDSforMySQL.md">RDS for MySQL 생성하기</a>
 ### React
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Web/React/Component.md">컴포넌트와 props</a>
