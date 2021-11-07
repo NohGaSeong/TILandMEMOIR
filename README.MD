@@ -28,7 +28,7 @@
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/Ec2-Lamp-Elb.md">EC2-LAMP-ELB 구성하기</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/VPC_and_Bastion.md">VPC와 중계 서버(Bastion) 구성하기</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/RDSforMySQL.md">RDS for MySQL 생성하기</a>
-- <a href = "https://github.com/NohGaSeong/TIL/tree/main/Cloud">11월 6일 클라우드 수업</a>
+- <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/1106CloudClass.md">11월 6일 클라우드 수업</a>
 
 ### React
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Web/React/Component.md">컴포넌트와 props</a>
