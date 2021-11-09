@@ -6,10 +6,12 @@ collections 클래스는 collection 인터페이스를 구현한 클래스에 �
 자주 사용하는 알고리즘으로는 `정렬` , `섞기` , `탐색` 등이 있다.
 
 아래 표는 이 클래스의 메서드들이다.
-![Alt Text]
+![djava](https://user-images.githubusercontent.com/82383294/140943932-90a8caad-f223-4393-8884-ef69a10afec0.png)
+images.githubusercontent.com/82383294/140943919-8deb2a26-50f6-4f22-bec9-f56fc0803636.png)
+
 
 ## 예제
-정렬
+### 정렬
 ```
 import java.util.*;
 
@@ -23,10 +25,11 @@ public class SortTest1 {
     }
 }
 ```
+![2605F2335975A9E425](https://user-images.githubusercontent.com/82383294/140943911-584873c4-89ac-4f50-ad7e-c202b5f86003.png)
 meet과 to의 위치가 바뀐 것을 볼 수 있다. 알파벳순이기 때문에 이러한 결과가 나온 것이다.
 
 
-섞기
+### 섞기
 ```
   import java.util.*;
 
@@ -43,12 +46,10 @@ public class Shuffle {
     }
 }
 ```
-
-탐색
+![279135335975ABD528](https://user-images.githubusercontent.com/82383294/140943915-80c729ea-bcf0-4844-b806-08230a09b6e0.png)
+![220575335975AA3F2C](https://user-images.githubusercontent.com/82383294/140943917-99a65aaf-b16c-402a-9692-e3b743c8d429.png)
+### 탐색
 - 선형 탐색 : 처음부터 모든 원소를 방문하는 탐색 방법으로, 리스트가 정렬되어 있지 않은 경우 사용한다.
-
- 
-
 - 이진 탐색 : 리스트가 정렬되어 있는 경우 중간에 있는 원소(m)와 먼저 비교하여, 크면 그다음부(m+1)터 끝까지 비교하고, 작으면 처음부터 그 전(m-1)까지의 원소들과 비교하는 방식을 반복하여 하나의 리스트를 계속해서 두 개의 리스트로 분할한다. 이 방법은 리스트에 하나의 원소가 남을 때까지 반복된다. 이진 탐색은 문제의 크기를 반으로 줄일 수 있기 때문에 선형 탐색보다 효율적이다.
 - Collections 클래스는 정렬된 리스트에서 지정된 원소를 이진 탐색한다. 
 
