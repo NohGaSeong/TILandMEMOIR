@@ -58,4 +58,4 @@
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Server/RestAPI%3F.md">REST API?</a>
 
 ### MySQL
-- <a href = "https://github.com/NohGaSeong/TIL/blob/main/MySQL/Conditional.md">조건문,연산자</a>
+- <a href = "https://github.com/NohGaSeong/TIL/blob/main/MySQL/Conditional.md">조건문,연산자 문제 </a>
