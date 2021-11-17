@@ -221,4 +221,27 @@
 10. server 요소의 설정도 다음과 같이 수정해요.
 ```
   server {
-    li
+    listen 80;
+    
+    # 서버의 이름을 나타낸다. 클라이언트에서 어떤 주소로 요청을 보냈을 떄 nginx는 그 주소와 정의돼 있는 server_name 들을 보고 어떤
+    # server에게 요청을 보내줄지 결정한다.
+    # IP 주소와 도메인 주소도 사용 가능하며 정규 표현식도 사용할 수 있다.
+    
+    server_name <EC2 인스턴스의 IPv4 퍼블릭 주소>;
+    
+    root /var/www/aws-exercise-a/public;
+    
+    # Passenger 앱 명시
+    passenger_enabled on;
+    
+    # Passenger에게 Node.js 앱임을 알려준다
+    passenger_app_type node;
+    
+    # Passenger 시작 파일
+    passenger_startup_file /var/www/aws-exercise-a/app.js
+    
+```
+11. 편집된 파일을 저장한 뒤 nginx 서비스를 시작한다.
+` $sudo /opt/nginx/sbin/nginx `
+
+12. 브라우저에서 ec2 인스턴스의 주소로 접속하면 샘플 프로젝트의 응답이 올바르게 나타나는 것을 확인할 수 있다.
