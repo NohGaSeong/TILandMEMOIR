@@ -33,7 +33,8 @@
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/AWS-Certified...Study-Guide/Chapter-2.md">AWS-CERTIFIED...STUDY-GUIDE CH2</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/Infra_Guide/ch%201.md">인프라 구축 가이드 - 1장</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/Infra_Guide/ch%202.md">인프라 구축 가이드 - 2장</a>
-- <a href = "">인프라 구축 가이드 - 2장 : 실습</
+- <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/Infra_Guide/ch%201-2%20Training.md">인프라 구축 가이드 - 1장 ~ 2장 : 실습</a>
+- <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/Infra_Guide/ch%202.4%20training.md">인프라 구축 가이드 - 2.4 장 실습</a>
 
 ### React
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Web/React/Component.md">컴포넌트와 props</a>
