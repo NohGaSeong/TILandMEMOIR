@@ -6,7 +6,7 @@
 
 ## customer benefits
 
-control network architecture
+### control network architecture
 - 네트워크 아키텍처를 제어하는 IP 범위
 - 비밀 서브넷, 공용 서브넷
 - 네트워크 게이트웨잉
@@ -15,19 +15,19 @@ control network architecture
 - VPC 피어링
 - IPv6의 지원
 
-Evolving EC2 feature set
+### Evolving EC2 feature set
 - 고정 사설 IP 주소 할당
 - EC2 기반 고정된 public ip 를 사용 가능
 - 인스턴스에 여러 NIC 및 ip를 할당할 수 있음
 
-Improve security & compliance posture
+### Improve security & compliance posture
 - 하나의 aws 계정에만 논리적으로 격리된 vpc 아웃바운드 트래픽에 대한 송신 필터링
 - 인스턴스는 기본적으로 인터넷에 액세스할 수 없음
 - 단일 테넌트 하드웨어에서 인스턴스 실행
 - 개발 , 테스트 및 프로덕션을 위한 격리
 - VPC EndPoint를 통해 인터넷 연결이 안되더라도 AWS 서비스에 비공개 접근이 가능
 
-Enables Hybrid Cloud Architectures
+### Enables Hybrid Cloud Architectures
 - on premise 네트워크를 aws cloud로 확장
 - ipsec vpn 에 대한 지원
 - vpc dx에 대한 연결
