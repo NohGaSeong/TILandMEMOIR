@@ -67,3 +67,4 @@
 ### MySQL
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/MySQL/Conditional.md">조건문,연산자 문제 </a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/MySQL/11-15%20%EB%B0%A9%EA%B3%BC%ED%9B%84.md">오름차 내림차 정렬, 숫자함수 등등 </a>
+- <a href = "https://github.com/NohGaSeong/TIL/blob/main/MySQL/11-24%20%EB%B0%A9%EA%B3%BC%ED%9B%84.md">문자열 </a>
