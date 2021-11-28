@@ -37,6 +37,7 @@
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/Infra_Guide/ch%202.4%20training.md">인프라 구축 가이드 - 2.4장 실습</a> 
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/AWS%20API%20Gateway.md">AWS API GateWay? </a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/API_Gateway%20Training.md">API Gateway 실습 </a>
+- <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/1120CloudClass.md">11월 24일 클라우드 수업</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/CICD%EC%97%90%20%EA%B4%80%ED%95%B4.md">CICD에 관해</a>
 
 ### React
