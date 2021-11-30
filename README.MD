@@ -40,6 +40,7 @@
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/1120CloudClass.md">11월 24일 클라우드 수업</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/CICD%EC%97%90%20%EA%B4%80%ED%95%B4.md">CICD에 관해</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/Infra_Guide/%EC%9A%B4%EC%98%81%EC%84%9C%EB%B2%84%EC%9D%98%20%EC%99%B8%EB%B6%80%20%ED%99%98%EA%B2%BD%20%EA%B5%AC%EC%84%B1.md">운영 서버의 외부 환경 구성</a>
+- <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/Infra_Guide/5.1~5.2%20(%EB%B0%B0%ED%8F%AC).md>5.1~5.2 배포 </a>
 
 ### React
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Web/React/Component.md">컴포넌트와 props</a>
