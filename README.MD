@@ -75,4 +75,5 @@
 
 ### DevOps
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/DevOps/DevOps%20%EA%B0%9C%EC%9A%94.md">DevOps 개요</a>
+- <a href = "https://github.com/NohGaSeong/TIL/blob/main/DevOps/DevOps%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EC%9D%98%20%EC%97%AD%ED%95%A0.md">DevOps 엔지니어의 역할</a>
 ### Other
