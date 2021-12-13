@@ -2,12 +2,44 @@
 ## 갑자기 왜 이런걸?
 - 기초를 제대로 안쌓고 어려운거 할라니까 정신 나갈 것 같아서 기초부터 다시해봅니다.
 
-## AWS EC2
+## 컴퓨팅 서비스
+### AWS EC2(Elastic)
+- 사양과 크기를 조절할 수 있는 컴퓨팅 서비스
+### AWS Auto Scaling
+- 서버의 특정 조건(트래픽 등)에 따라 서버를 추가/삭제할 수 있게 하는 서비스
+### AWS Lightsail
+- 가상화 프라이빗 서버
+### AWS Workspaces
+- 사내 pc를 가상화로 구성하여, 문서를 개인 pc에 보관하는것이 아니라 서버에서 보관하게 하는 서비스
 
-## AWS Lightsail
+## 네트워킹 서비스
+### AWS Route553
+- DNS 웹 서비스
+### AWS Direct Connect
+- On-premise 인프라와 aws를 연결하는 네트워킹 서비스
+### AWS VPC
+- 가상 네트워크를 클라우드 내에 생성/구성
+### AWS ELB
+- 부하 분산(로드 밸런싱)서비스
 
-## AWS Auto Scaling
+## 스토리지/데이터베이스 서비스
+### AWS S3
+- 여러가지 파일을 혀식에 구애받지 않고 저장
+### AWS RDS
+- 가상 SQL 데이터베이스 서비스
+### AWS DynamoDB
+- 가상 NoSQL 데이터베이스 서비스
+### AWS ElastiCache
+- In-memory 기반의 cache 서비스
 
-## AWS Workspaces
+## 데이터분석 & AI
+### AWS Redshift
+- 데이터 분석에 특화된 스토리지 시스템
+### AWS Sagemaker
+- 머신 러닝&데이터분석을 위한 클라우드 환경 제공
+### AWS EMR
+- 대량의 데이터를 효율적으로 가공&처리
 
-(추가 예정)
+## 느낀점
+- 이 모든것을 빠른 시간내에 익히고 이해할려고해보자. 기초가 중요하다. 기초를 완벽히 빠르게 쌓자. 화이팅!
+
