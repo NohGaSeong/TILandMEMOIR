@@ -54,6 +54,25 @@
 - 프라이빗에서 퍼블릭으로 트래픽을 쏘고 퍼블릭에서 인터넷게이트웨이로 트래픽을 쏘는겁니다. (하나의 vpc 안에 있기때문에 통신 가능) 
 - 위와 같은 우회를 NAT GATEWAY 가 도와줍니다.
 - private 서브넷 안에 있는 ec2 가 public 서브넷 안에 있는 nat gateway 와 nat instance 로 연결해 이 public 서브넷 안에 있는 요소들이 인터넷과 연결해줍니다.
-- 
-### VPC endpoint
+![image](https://user-images.githubusercontent.com/82383294/146202164-45a5e1db-ff7e-4783-85c0-b330e3f8923d.png)
 
+#### 정리
+- Private subnet 안에 있는 private instance가 외부의 인터넷과 통신하기 위한 방법
+  - NAT Instance는 단일 Instance(EC2)
+  - NAT Gateway는 aws에서 제공하는 서비스(서비스)
+- Nat Instance는 Public Subnet에 있어야함
+
+### Bastion host
+- Private Instance에 접근하기 위한 수단
+- Public subnet내에 위치하는 EC2
+### VPC endpoint
+- 이걸 통해 인터넷 게이트웨이, nat 디바이스, vpn 연결 또는 aws direct connect 연결을 필요로 하지 않고 aws private link 구동 지원 aws 서비스 및 vpc 엔드 포인트 `서비스에 비공개로 연결`할 수 있습니다. vpc의 인스턴스 서비스의 리소스와 통신하는데 `퍼블릭 IP주소를 필요로 하지 않습니다` vpc와 기타 서비스 간의 트래픽은 amazon 네트워크를 벗어나지 않습니다.
+
+- AWS의 여러 서비스와 VPC를 연결시켜주는 중간 매개체
+  - aws 에서 vpc 바깥으로 트래픽이 나가지 않고 aws의 여러 서비스를 사용하게끔 만들어주는 서비스
+  - private subnet 같은 경우는 격리된 공가닝넫, 그 상황에서도 aws의 다양한 서비스들을 연결할 수 있도록 지원하는 서비스
+  - Insterface Endpoint : private ip 를 만들어 서비스를 연결해줌
+  - Gateway EndPoint: 라우팅 테이블에서 경로의 대상으로 지정하여 사용
+
+## Todo
+- 영상 보면서 조금 이해 덜 된거 다시 봐보기
