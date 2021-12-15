@@ -44,6 +44,8 @@
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/1204CloudClass.md">12월 4일 클라우드 수업</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/AWS%20%EC%A3%BC%EC%9A%94%20%EC%84%9C%EB%B9%84%EC%8A%A4.md">AWS 주요 서비스</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%82%B9%EC%9D%98%20%EA%B8%B0%EB%B3%B8.md">네트워킹의 기본</a>
+- <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/(VPC)%20AWS%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%82%B9%EC%9D%98%20%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC.md
+">(VPC) AWS 네트워킹의 동작원리</a> 
 
 ### React
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Web/React/Component.md">컴포넌트와 props</a>
