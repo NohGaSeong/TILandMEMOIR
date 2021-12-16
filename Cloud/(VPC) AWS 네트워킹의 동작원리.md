@@ -70,7 +70,7 @@
 
 - AWS의 여러 서비스와 VPC를 연결시켜주는 중간 매개체
   - aws 에서 vpc 바깥으로 트래픽이 나가지 않고 aws의 여러 서비스를 사용하게끔 만들어주는 서비스
-  - private subnet 같은 경우는 격리된 공가닝넫, 그 상황에서도 aws의 다양한 서비스들을 연결할 수 있도록 지원하는 서비스
+  - private subnet 같은 경우는 격리된 공간인데, 그 상황에서도 aws의 다양한 서비스들을 연결할 수 있도록 지원하는 서비스
   - Insterface Endpoint : private ip 를 만들어 서비스를 연결해줌
   - Gateway EndPoint: 라우팅 테이블에서 경로의 대상으로 지정하여 사용
 
