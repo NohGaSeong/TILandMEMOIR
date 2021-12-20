@@ -82,3 +82,4 @@
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/DevOps/DevOps%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EC%9D%98%20%EC%97%AD%ED%95%A0.md">DevOps 엔지니어의 역할</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/DevOps/DevOps%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%20%EC%84%B1%EC%9E%A5%20%EC%A0%84%EB%9E%B5.md">DevOps 엔지니어의 성장 전략</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/DevOps/GitHub%20Action%20%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20CICD.md">GitHub Action 을 이용한 CI/CD</a>
+- <a href = "https://github.com/NohGaSeong/TIL/blob/main/DevOps/%EB%AA%A8%EB%86%80%EB%A6%AC%EC%8B%9D%2C%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90.md">모놀리식 아키텍쳐 vs 마이크로서비스 아키텍쳐</a>
