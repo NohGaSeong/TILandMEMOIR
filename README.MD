@@ -21,7 +21,15 @@
 - reference를 명시하고, 원작자가 참고를 허용하는 자료만 사용한다.
 - 본인 또는 다른 사람이 해당 문서를 다시 봤을 때, 추가적인 검색의 비용이 들지 않도록 자세히 기록한다.
 
-## 한눈에 보기
+## Devops
+### DevOps
+- <a href = "https://github.com/NohGaSeong/TIL/blob/main/DevOps/DevOps%20%EA%B0%9C%EC%9A%94.md">DevOps 개요</a>
+- <a href = "https://github.com/NohGaSeong/TIL/blob/main/DevOps/DevOps%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EC%9D%98%20%EC%97%AD%ED%95%A0.md">DevOps 엔지니어의 역할</a>
+- <a href = "https://github.com/NohGaSeong/TIL/blob/main/DevOps/DevOps%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%20%EC%84%B1%EC%9E%A5%20%EC%A0%84%EB%9E%B5.md">DevOps 엔지니어의 성장 전략</a>
+- <a href = "https://github.com/NohGaSeong/TIL/blob/main/DevOps/GitHub%20Action%20%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20CICD.md">GitHub Action 을 이용한 CI/CD</a>
+- <a href = "https://github.com/NohGaSeong/TIL/blob/main/DevOps/%EB%AA%A8%EB%86%80%EB%A6%AC%EC%8B%9D%2C%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90.md">모놀리식 아키텍쳐 vs 마이크로서비스 아키텍쳐</a>
+- <a href= "https://github.com/NohGaSeong/TIL/blob/main/DevOps/DDD%EC%97%90%20%EA%B4%80%ED%95%98%EC%97%AC.md">DDD에 관해서</a>
+- <a href = "https://github.com/NohGaSeong/TIL/blob/main/DevOps/%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%8A%A4%ED%86%A0%EB%B0%8D.md">어플레키에션 브레인스토밍</a>
 ### Cloud
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/VpcNetworks.md">VPC 네트워크에 대해 알아봅시다</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/ServerlessWebhosting.md">Amazon S3로 서버없는 정적 웹 호스팅 구축</a>
@@ -47,6 +55,7 @@
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/(VPC)%20AWS%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%82%B9%EC%9D%98%20%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC.md
 ">(VPC) AWS 네트워킹의 동작원리</a> 
 
+## FrontEnd
 ### React
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Web/React/Component.md">컴포넌트와 props</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Web/React/Hook.md">Hook </a>
@@ -59,16 +68,12 @@
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/JavaScript/Js%20%EA%B8%B0%EC%B4%88%204.md">Js기초-4 </a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/JavaScript/Mr.blog.md"> Mr.blog 느낀 점 및 알게된 것</a>
 
+## BackEnd
 ### Node.js
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/NodeJs/NodeJs%3F.md">Node.Js?</a>
 
-### 자바
-- <a href = "https://github.com/NohGaSeong/TIL/blob/main/Java/AbstractClass.md">추상 클래스</a>
-- <a href = "https://github.com/NohGaSeong/TIL/blob/main/Java/Exception.md">예외 및 예외처리 방법</a>
-- <a href = "https://github.com/NohGaSeong/TIL/blob/main/Java/method.md">메서드란?</a>
-- <a href = "https://github.com/NohGaSeong/TIL/blob/main/Java/CollectionsClass.md">콜렉션 클래스</a>
 
-### Server
+### BackEnd
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/BackEnd/Server?.md">서버란?</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Server/RestAPI%3F.md">REST API?</a>
 
@@ -77,13 +82,12 @@
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/MySQL/11-15%20%EB%B0%A9%EA%B3%BC%ED%9B%84.md">오름차 내림차 정렬, 숫자함수 등등 </a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/MySQL/11-24%20%EB%B0%A9%EA%B3%BC%ED%9B%84.md">문자열 </a>
 
-### DevOps
-- <a href = "https://github.com/NohGaSeong/TIL/blob/main/DevOps/DevOps%20%EA%B0%9C%EC%9A%94.md">DevOps 개요</a>
-- <a href = "https://github.com/NohGaSeong/TIL/blob/main/DevOps/DevOps%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EC%9D%98%20%EC%97%AD%ED%95%A0.md">DevOps 엔지니어의 역할</a>
-- <a href = "https://github.com/NohGaSeong/TIL/blob/main/DevOps/DevOps%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%20%EC%84%B1%EC%9E%A5%20%EC%A0%84%EB%9E%B5.md">DevOps 엔지니어의 성장 전략</a>
-- <a href = "https://github.com/NohGaSeong/TIL/blob/main/DevOps/GitHub%20Action%20%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20CICD.md">GitHub Action 을 이용한 CI/CD</a>
-- <a href = "https://github.com/NohGaSeong/TIL/blob/main/DevOps/%EB%AA%A8%EB%86%80%EB%A6%AC%EC%8B%9D%2C%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90.md">모놀리식 아키텍쳐 vs 마이크로서비스 아키텍쳐</a>
-- <a href= "https://github.com/NohGaSeong/TIL/blob/main/DevOps/DDD%EC%97%90%20%EA%B4%80%ED%95%98%EC%97%AC.md">DDD/a>
-- <a href = "https://github.com/NohGaSeong/TIL/blob/main/DevOps/%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%8A%A4%ED%86%A0%EB%B0%8D.md">어플레키에션 브레인스토밍</a>
 
 ### DJango
+
+## Programming Language
+### 자바
+- <a href = "https://github.com/NohGaSeong/TIL/blob/main/Java/AbstractClass.md">추상 클래스</a>
+- <a href = "https://github.com/NohGaSeong/TIL/blob/main/Java/Exception.md">예외 및 예외처리 방법</a>
+- <a href = "https://github.com/NohGaSeong/TIL/blob/main/Java/method.md">메서드란?</a>
+- <a href = "https://github.com/NohGaSeong/TIL/blob/main/Java/CollectionsClass.md">콜렉션 클래스</a>
