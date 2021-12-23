@@ -84,7 +84,7 @@
 
 
 ### DJango
-
+- <a href = "https://github.com/NohGaSeong/TIL/blob/main/DJango/Django%EC%9D%98%20%EA%B8%B0%EC%B4%88%EB%A5%BC%20%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%901.md">DJango의 기초를 알아보자 </a>
 ## Programming Language
 ### 자바
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Java/AbstractClass.md">추상 클래스</a>
