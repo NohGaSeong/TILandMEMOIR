@@ -95,3 +95,4 @@
 ## Other
 ### 회고록
 - <a href = " ">The-Moment 팀에서 느낀점들</a>
+- <a href = "https://github.com/NohGaSeong/TIL/blob/main/Other/Araboza_Memories.md">.Araboza Project 회고록</a>
