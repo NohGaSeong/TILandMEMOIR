@@ -4,12 +4,12 @@
 
 > `TIL`이란?<br/>
 
-> `TIL` 이란 `Today I Learn` 의 줄임말로 한국말로 직역하면 오늘 내가 배운 것! 이라는 뜻이죠<br>
+> `TIL` 이란 `Today I Learn` 의 줄임말로 한국말로 직역하면 '오늘 내가 배운 것!' 이라는 뜻이죠<br>
 오늘 공부 한 내용을 매일매일 기록하는 방법이에요
 
 ### 작성하게된 계기??
 
-> 친구들이 하는것을 보기도 했고, 일일커밋과 같이 진행하면 좋은 동기부여가 될 것 같아서 시작했어요. 
+> 친구들이 하는것을 보기도 했고,일일커밋과 같이 진행하면 좋은 동기부여가 될 것 같아서 시작했어요. 
 
 ### 작성법
 - 폴더와 파일명은 될 수 있으면 영문(파스칼 표기법)으로 작성합니다.
@@ -71,7 +71,6 @@
 ### Node.js
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/NodeJs/NodeJs%3F.md">Node.Js?</a>
 
-
 ### BackEnd
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/BackEnd/Server?.md">서버란?</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Server/RestAPI%3F.md">REST API?</a>
@@ -85,6 +84,7 @@
 ### DJango
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/DJango/Django%EC%9D%98%20%EA%B8%B0%EC%B4%88%EB%A5%BC%20%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%901.md">DJango의 기초를 알아보자 1</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/DJango/DJango%EC%9D%98%20%EA%B8%B0%EC%B4%88%EB%A5%BC%20%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90%202.md">DJango의 기초를 알아보자 2</a>
+- <a href = ""> Django? </a>
 ## Programming Language
 ### 자바
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Java/AbstractClass.md">추상 클래스</a>
@@ -94,5 +94,5 @@
 
 ## Other
 ### 회고록
-- <a href = " ">The-Moment 팀에서 느낀점들</a>
+- <a href = " ">The-Moment팀에서 느낀점들</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Other/Araboza_Memories.md">Araboza Project 회고록</a>
