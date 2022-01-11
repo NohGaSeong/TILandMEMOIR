@@ -30,6 +30,9 @@
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/DevOps/%EB%AA%A8%EB%86%80%EB%A6%AC%EC%8B%9D%2C%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90.md">모놀리식 아키텍쳐 vs 마이크로서비스 아키텍쳐</a>
 - <a href= "https://github.com/NohGaSeong/TIL/blob/main/DevOps/DDD%EC%97%90%20%EA%B4%80%ED%95%98%EC%97%AC.md">DDD에 관해서</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/DevOps/%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%8A%A4%ED%86%A0%EB%B0%8D.md">어플리케이션 브레인스토밍</a>
+
+### Kubernetes
+- <a href = ""> 쿠버네티스을 알아보자</a>
 ### Cloud
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/VpcNetworks.md">VPC 네트워크에 대해 알아봅시다</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/ServerlessWebhosting.md">Amazon S3로 서버없는 정적 웹 호스팅 구축</a>
