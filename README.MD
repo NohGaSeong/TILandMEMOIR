@@ -31,8 +31,6 @@
 - <a href= "https://github.com/NohGaSeong/TIL/blob/main/DevOps/DDD%EC%97%90%20%EA%B4%80%ED%95%98%EC%97%AC.md">DDD에 관해서</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/DevOps/%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%8A%A4%ED%86%A0%EB%B0%8D.md">어플리케이션 브레인스토밍</a>
 
-### Kubernetes
-- <a href = ""> 쿠버네티스 알아보자</a>
 ### Cloud
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/VpcNetworks.md">VPC 네트워크에 대해 알아봅시다</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/ServerlessWebhosting.md">Amazon S3로 서버없는 정적 웹 호스팅 구축</a>
@@ -89,12 +87,13 @@
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/DJango/DJango%EC%9D%98%20%EA%B8%B0%EC%B4%88%EB%A5%BC%20%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90%202.md">DJango의 기초를 알아보자 2</a>
 
 ## Programming Language
-### 자바
+### Java
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Java/AbstractClass.md">추상 클래스</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Java/Exception.md">예외 및 예외처리 방법</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Java/method.md">메서드란?</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Java/CollectionsClass.md">콜렉션 클래스</a>
-
+### Python
+- <a href = "https://github.com/NohGaSeong/TIL/blob/main/Python/Python%20%EB%AC%B8%EB%B2%95%20%EC%A0%95%EB%A6%AC.md">파이썬 기초 문법 정리</a>
 ## Other
 ### 회고록
 - <a href = " ">The-Moment팀에서 느낀점들</a>
