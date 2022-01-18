@@ -96,7 +96,6 @@
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Python/Python%20%EB%AC%B8%EB%B2%95%20%EC%A0%95%EB%A6%AC.md">파이썬 기초 문법 정리</a>
 ## Other
 ### 회고록
-- <a href = " ">The-Moment팀에서 느낀점들</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Other/Araboza_Memories.md">Araboza Project 회고록</a>
 ### 잡담
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Other/%EC%9D%91%EC%95%A0%20%EB%82%98%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EB%89%B4%EB%B9%84.md">응애 나 백엔드 뉴비</a>
