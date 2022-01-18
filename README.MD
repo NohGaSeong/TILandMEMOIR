@@ -81,7 +81,6 @@
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/MySQL/11-15%20%EB%B0%A9%EA%B3%BC%ED%9B%84.md">오름차 내림차 정렬, 숫자함수 등등 </a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/MySQL/11-24%20%EB%B0%A9%EA%B3%BC%ED%9B%84.md">문자열 </a>
 
-
 ### DJango
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/DJango/Django%EC%9D%98%20%EA%B8%B0%EC%B4%88%EB%A5%BC%20%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%901.md">DJango의 기초를 알아보자 1</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/DJango/DJango%EC%9D%98%20%EA%B8%B0%EC%B4%88%EB%A5%BC%20%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90%202.md">DJango의 기초를 알아보자 2</a>
@@ -94,7 +93,10 @@
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Java/CollectionsClass.md">콜렉션 클래스</a>
 ### Python
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Python/Python%20%EB%AC%B8%EB%B2%95%20%EC%A0%95%EB%A6%AC.md">파이썬 기초 문법 정리</a>
+
 ## Other
+### GitHub
+- <a href = "">백엔드를 시작하기 앞서 Github를 배워보자!</a>
 ### 회고록
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Other/Araboza_Memories.md">Araboza Project 회고록</a>
 ### 잡담
