@@ -96,7 +96,7 @@
 
 ## Other
 ### GitHub
-- <a href = "">백엔드를 시작하기 앞서 Github를 배워보자!</a>
+- <a href = "https://github.com/NohGaSeong/TIL/tree/main/Other">백엔드를 시작하기 앞서 Github를 배워보자!</a>
 ### 회고록
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Other/Araboza_Memories.md">Araboza Project 회고록</a>
 ### 잡담
