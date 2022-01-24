@@ -93,7 +93,7 @@
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Java/CollectionsClass.md">콜렉션 클래스</a>
 ### Python
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Python/Python%20%EB%AC%B8%EB%B2%95%20%EC%A0%95%EB%A6%AC.md">파이썬 기초 문법 정리</a>
-
+- <a href = "https://github.com/NohGaSeong/TIL/blob/main/Python/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84%20%EC%A2%80%20%EB%8D%94%20%EB%B0%B0%EC%9B%8C%EB%B3%B4%EC%9E%90.md">파이썬을 좀 더 배워보자</a>
 ## Other
 ### GitHub
 - <a href = "https://github.com/NohGaSeong/TIL/tree/main/Other">백엔드를 시작하기 앞서 Github를 배워보자!</a>
