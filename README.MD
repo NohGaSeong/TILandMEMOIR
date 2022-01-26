@@ -94,7 +94,7 @@
 ### Python
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Python/Python%20%EB%AC%B8%EB%B2%95%20%EC%A0%95%EB%A6%AC.md">파이썬 기초 문법 정리</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Python/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84%20%EC%A2%80%20%EB%8D%94%20%EB%B0%B0%EC%9B%8C%EB%B3%B4%EC%9E%90.md">파이썬을 좀 더 배워보자</a>
-- <a href = "https://github.com/NohGaSeong/TIL/blob/main/Python/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EB%82%A0%EA%B0%9C%20%EB%8B%AC%EA%B8%B0(%ED%81%B4%EB%9E%98%EC%8A%A4).md">파이썬에 날개를 달아보자 -  </a>
+- <a href = "https://github.com/NohGaSeong/TIL/blob/main/Python/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EB%82%A0%EA%B0%9C%20%EB%8B%AC%EA%B8%B0(%ED%81%B4%EB%9E%98%EC%8A%A4).md">파이썬에 날개를 달아보자 -  클래스 </a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Python/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EB%82%A0%EA%B0%9C%20%EB%8B%AC%EA%B8%B0(%EB%AA%A8%EB%93%88).md">파이썬에 날개를 달아보자 - 모듈 </a>
 ## Other
 ### GitHub
