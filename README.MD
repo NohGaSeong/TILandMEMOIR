@@ -104,5 +104,6 @@
 - <a href = "">실제 협업 시나리오로 깃허브를 알아보자(마지막)</a>
 ### 회고록
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Other/Araboza_Memories.md">Araboza Project 회고록</a>
+- <a href = " ">1학년을 완벽히 끝마치고 적는 회고록</a>
 ### 잡담
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Other/%EC%9D%91%EC%95%A0%20%EB%82%98%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EB%89%B4%EB%B9%84.md">응애 나 백엔드 뉴비</a>
