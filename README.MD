@@ -108,5 +108,6 @@
 ### 회고록
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Other/Araboza_Memories.md">Araboza Project 회고록</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Other/1%ED%95%99%EB%85%84%EC%9D%84%20%EB%81%9D%EB%A7%88%EC%B9%98%EB%A9%B0%20%EC%A0%81%EB%8A%94%20%ED%9A%8C%EA%B3%A0%EB%A1%9D.md ">1학년을 완벽히 끝마치고 적는 회고록</a>
+- <a href = " "> White Day 회고록 </a>
 ### 잡담
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Other/%EC%9D%91%EC%95%A0%20%EB%82%98%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EB%89%B4%EB%B9%84.md">응애 나 백엔드 뉴비</a>
