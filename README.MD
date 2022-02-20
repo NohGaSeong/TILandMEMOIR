@@ -52,7 +52,7 @@
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/AWS%20%EC%A3%BC%EC%9A%94%20%EC%84%9C%EB%B9%84%EC%8A%A4.md">AWS 주요 서비스</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%82%B9%EC%9D%98%20%EA%B8%B0%EB%B3%B8.md">네트워킹의 기본</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/(VPC)%20AWS%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%82%B9%EC%9D%98%20%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC.md
-">(VPC) AWS 네트워킹의 동작원리</a> 
+">(VPC) AWS네트워킹의 동작원리</a> 
 
 #### 2022
 - <a href = "https://github.com/NohGaSeong/TILandMEMOIR/blob/main/Cloud/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%98%20AWS%20%EB%B9%84%EC%9A%A9%EC%A0%88%EA%B0%90%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EB%B0%A9%EB%B2%95.md"> 스타트업의 AWS 비용절약을 위한 방법들</a>       
