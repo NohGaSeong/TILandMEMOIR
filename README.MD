@@ -76,7 +76,7 @@
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Server/C.R.U.D%3F.md">CRUD?</a>
 #### 2022
 - <a href = "https://github.com/NohGaSeong/TILandMEMOIR/blob/main/Server/JSON%EC%9D%84%20%EB%B0%B0%EC%9B%8C%EB%B3%B4%EC%9E%90!.md">JSON 을 배워보자!</a>
-
+- <a href = "https://github.com/NohGaSeong/TILandMEMOIR/blob/main/Server/Array_Method.md">Array_Method</a>
 ### Node.js
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/NodeJs/NodeJs%3F.md">Node.Js?</a>
 ### Oracle SQL
