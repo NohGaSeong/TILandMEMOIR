@@ -132,6 +132,79 @@ Huston Rocket
 - 이런식으로 생각하면 편할 듯 싶다.
 - sport 를 왜 [] 안에 넣었는지 의문이 든다. 애들한테 물어보고 추가적으로 적어야겠다.
 
-(조금 이따 적을 예정)
+## 또 다른 예제
+### JSON
+```.json
+var param3 = {"menu": {
+  "id": "file",
+  "value": "File",
+  "popup": {
+    "menuitem": [
+      {"value": "New", "onclick": "CreateNewDoc()"},
+      {"value": "Open", "onclick": "OpenDoc()"},
+      {"value": "Close", "onclick": "CloseDoc()"}
+    ]
+  }
+}}
+```
+### JS
+```.js
+$(document).ready(function(){
 
+jsonTest();
 
+})
+
+function jsonTest(){
+console.log(param3.menu.popup.menuitem[1].value);
+console.log(param3.menu.popup.menuitem[0].onclick);
+}
+```
+
+### 결과
+Open</br>
+CreateNewDoc()
+
+### 이해한대로 적기
+- param3 의 메뉴의 popup의 menuitem 의 1 번째 배열의 value 라는 키의 값
+- param3 의 메뉴의 popup의 menuitem 의 0 번째 배열의 onClick 이라는 키의 값
+
+## JSON(Object)키만 추출하기
+- REST API 를 조회해서 뽑거나 .json 파일을 받았다면 데이터가 와르르 쏟아져 나온다.
+- 이럴때 Object의 KEY 만 추출해서 데이터 가공을 한다면 훨씬 수월하다
+
+### JSON KEY 추출
+- 첫 번쨰 방법 `Object.keys(ObjData)`
+- 두 번째 방법 `Object.getOwnPropertyNames(ObjData)`
+
+### JSON length 추출
+- `var obj_length = Object.keys(ex_obj).length;`
+
+### JSON 형태의 스트링 값 JSON 으로 변환
+```.js
+JSON.parse(text[, reviver])
+
+var json = '{"result":true, "count":42}';
+obj = JSON.parse(json);
+
+console.log(obj.count);
+// expected output: 42
+
+console.log(obj.result);
+// expected output: true
+
+// 이때 JSON 형태로 된 String만 변환이 된다.
+```
+
+### 이번엔 JSON -> String
+```.js
+JSON.stringify()
+JSON.stringify({});                  // '{}'
+JSON.stringify(true);                // 'true'
+JSON.stringify('foo');               // '"foo"'
+JSON.stringify([1, 'false', false]); // '[1,"false",false]'
+JSON.stringify({ x: 5 });            // '{"x":5}'
+```
+### 값의 타입이 String 인지 JSON 인지 모르겠다?
+```.js
+console.log(typeof'타입확인할값');`
