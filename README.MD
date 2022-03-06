@@ -104,7 +104,7 @@
 - <a href = "https://github.com/NohGaSeong/TIL/tree/main/Other">백엔드를 시작하기 앞서 Github를 배워보자!</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Other/%EB%B8%8C%EB%9E%9C%EC%B9%98%3F.md">협업에 필요한 브렌치 기능을 알아보자</a>
 - <a href = "">실제 협업 시나리오로 깃허브를 알아보자(마지막)</a>
-- <https://github.com/NohGaSeong/TILandMEMOIR/blob/main/Other/%EB%82%98%EB%A7%8C%20%EB%AA%A8%EB%A5%B4%EB%8A%94%20%EC%BD%94%EB%94%A9%20%EC%9A%A9%EC%96%B4%20%ED%95%B4%EC%84%A4.md">나만 모르는 코딩 용어 
+- <https://github.com/NohGaSeong/TILandMEMOIR/blob/main/Other/%EB%82%98%EB%A7%8C%20%EB%AA%A8%EB%A5%B4%EB%8A%94%20%EC%BD%94%EB%94%A9%20%EC%9A%A9%EC%96%B4%20%ED%95%B4%EC%84%A4.md">나만 모르는 코딩 용어 </
 ### 회고록
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Other/Araboza_Memories.md">Araboza Project 회고록</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Other/1%ED%95%99%EB%85%84%EC%9D%84%20%EB%81%9D%EB%A7%88%EC%B9%98%EB%A9%B0%20%EC%A0%81%EB%8A%94%20%ED%9A%8C%EA%B3%A0%EB%A1%9D.md ">1학년을 완벽히 끝마치고 적는 회고록</a>
