@@ -95,6 +95,7 @@
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Java/Exception.md">예외 및 예외처리 방법</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Java/method.md">메서드란?</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Java/CollectionsClass.md">콜렉션 클래스</a>
+
 ### Python
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Python/Python%20%EB%AC%B8%EB%B2%95%20%EC%A0%95%EB%A6%AC.md">파이썬 기초 문법 정리</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Python/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84%20%EC%A2%80%20%EB%8D%94%20%EB%B0%B0%EC%9B%8C%EB%B3%B4%EC%9E%90.md">파이썬을 좀 더 배워보자</a>
@@ -107,13 +108,15 @@
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Other/%EB%B8%8C%EB%9E%9C%EC%B9%98%3F.md">협업에 필요한 브렌치 기능을 알아보자</a>
 - <a href = "">실제 협업 시나리오로 깃허브를 알아보자(마지막)</a>
 - <a href = "https://github.com/NohGaSeong/TILandMEMOIR/blob/main/Other/%EB%82%98%EB%A7%8C%20%EB%AA%A8%EB%A5%B4%EB%8A%94%20%EC%BD%94%EB%94%A9%20%EC%9A%A9%EC%96%B4%20%ED%95%B4%EC%84%A4.md">나만 모르는 코딩 용어 </a>   
+
 ### 회고록
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Other/Araboza_Memories.md">Araboza Project 회고록</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Other/1%ED%95%99%EB%85%84%EC%9D%84%20%EB%81%9D%EB%A7%88%EC%B9%98%EB%A9%B0%20%EC%A0%81%EB%8A%94%20%ED%9A%8C%EA%B3%A0%EB%A1%9D.md ">1학년을 완벽히 끝마치고 적는 회고록</a>
 - <a href = "https://github.com/NohGaSeong/TILandMEMOIR/blob/main/Other/WhiteDay_Memories.md">WhiteDay Project 회고록</a> 
 
 ### 잡담
-- <a href = "https://github.com/NohGaSeong/TIL/blob/main/Other/%EC%9D%91%EC%95%A0%20%EB%82%98%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EB%89%B4%EB%B9%84.md">응애 나 백엔드 뉴비</a>
+- <a href = "https://github.com/NohGaSeong/TIL/blob/main/Other/%EC%9D%91%EC%95%A0%20%EB%82%98%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EB%89%B4%EB%B9%84.md">응애 나 백엔드 뉴비ww</a>
+
 
 
 
