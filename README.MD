@@ -79,10 +79,11 @@
 - <a href = "https://github.com/NohGaSeong/TILandMEMOIR/blob/main/Server/Array_Method.md">Array_Method</a>
 ### Node.js
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/NodeJs/NodeJs%3F.md">Node.Js?</a>
-### Oracle SQL
+### DB
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/MySQL/Conditional.md">조건문,연산자 문제 </a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/MySQL/11-15%20%EB%B0%A9%EA%B3%BC%ED%9B%84.md">오름차 내림차 정렬, 숫자함수 등등 </a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/MySQL/11-24%20%EB%B0%A9%EA%B3%BC%ED%9B%84.md">문자열 </a>
+- <a href = "https://github.com/NohGaSeong/TILandMEMOIR/blob/main/MySQL/DB%EC%9D%98%20%EC%A2%85%EB%A5%98.md">DB의 종류</a>
 
 ### DJango
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/DJango/Django%EC%9D%98%20%EA%B8%B0%EC%B4%88%EB%A5%BC%20%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%901.md">DJango의 기초를 알아보자 1</a>
