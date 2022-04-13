@@ -19,6 +19,7 @@
 
 ## Devops
 ### DevOps
+#### 2021
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/DevOps/DevOps%20%EA%B0%9C%EC%9A%94.md">DevOps 개요</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/DevOps/DevOps%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EC%9D%98%20%EC%97%AD%ED%95%A0.md">DevOps 엔지니어의 역할</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/DevOps/DevOps%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%20%EC%84%B1%EC%9E%A5%20%EC%A0%84%EB%9E%B5.md">DevOps 엔지니어의 성장 전략</a>
@@ -26,6 +27,9 @@
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/DevOps/%EB%AA%A8%EB%86%80%EB%A6%AC%EC%8B%9D%2C%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90.md">모놀리식 아키텍쳐 vs 마이크로서비스 아키텍쳐</a>
 - <a href= "https://github.com/NohGaSeong/TIL/blob/main/DevOps/DDD%EC%97%90%20%EA%B4%80%ED%95%98%EC%97%AC.md">DDD에 관해서</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/DevOps/%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%8A%A4%ED%86%A0%EB%B0%8D.md">어플리케이션 브레인스토밍</a> 
+
+#### 2022
+- <a href = "https://github.com/NohGaSeong/TILandMEMOIR/blob/main/DevOps/Github%20Action.md">Github Action 을 정복해보자 </a>
 
 ### Cloud
 #### 2021
