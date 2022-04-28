@@ -78,14 +78,16 @@
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/BackEnd/Server?.md">서버란?</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Server/RestAPI%3F.md">REST API?</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Server/C.R.U.D%3F.md">CRUD?</a>
+- <a href = "https://github.com/NohGaSeong/TILandMEMOIR/blob/main/Server/mvc%3F.md">MVC에 대해</a>
+- <a href = "https://github.com/NohGaSeong/TILandMEMOIR/blob/main/Server/envFile.md">.env</a>
+- <a href = "https://github.com/NohGaSeong/TILandMEMOIR/blob/main/Server/%ED%9A%8C%EC%9B%90%EC%9D%B8%EC%A6%9D%EB%B0%A9%EC%8B%9D.md">회원인증방식</a>
 #### 2022
 - <a href = "https://github.com/NohGaSeong/TILandMEMOIR/blob/main/Server/JSON%EC%9D%84%20%EB%B0%B0%EC%9B%8C%EB%B3%B4%EC%9E%90!.md">JSON 을 배워보자!</a>
 - <a href = "https://github.com/NohGaSeong/TILandMEMOIR/blob/main/Server/Array_Method.md">Array_Method</a>
 ### Node.js
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/NodeJs/NodeJs%3F.md">Node.Js?</a>
 
-### Spring
-- 
+
 ### DB
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/MySQL/Conditional.md">조건문,연산자 문제 </a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/MySQL/11-15%20%EB%B0%A9%EA%B3%BC%ED%9B%84.md">오름차 내림차 정렬, 숫자함수 등등 </a>
