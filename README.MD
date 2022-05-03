@@ -30,7 +30,7 @@
 
 #### 2022
 - <a href = "https://github.com/NohGaSeong/TILandMEMOIR/blob/main/DevOps/Github%20Action.md">Github Action 을 정복해보자 </a>
-
+- <a href = "https://github.com/NohGaSeong/TILandMEMOIR/blob/main/DevOps/DevOps%EA%B8%B0%EB%B2%95.md">DevOps 업무 및 특징</a>
 ### Cloud
 #### 2021
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/VpcNetworks.md">VPC 네트워크에 대해 알아봅시다</a>
