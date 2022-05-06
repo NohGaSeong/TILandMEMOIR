@@ -19,7 +19,6 @@
 
 ## Devops
 ### DevOps
-#### 2021
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/DevOps/DevOps%20%EA%B0%9C%EC%9A%94.md">DevOps 개요</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/DevOps/DevOps%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EC%9D%98%20%EC%97%AD%ED%95%A0.md">DevOps 엔지니어의 역할</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/DevOps/DevOps%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%20%EC%84%B1%EC%9E%A5%20%EC%A0%84%EB%9E%B5.md">DevOps 엔지니어의 성장 전략</a>
@@ -27,12 +26,9 @@
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/DevOps/%EB%AA%A8%EB%86%80%EB%A6%AC%EC%8B%9D%2C%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90.md">모놀리식 아키텍쳐 vs 마이크로서비스 아키텍쳐</a>
 - <a href= "https://github.com/NohGaSeong/TIL/blob/main/DevOps/DDD%EC%97%90%20%EA%B4%80%ED%95%98%EC%97%AC.md">DDD에 관해서</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/DevOps/%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%8A%A4%ED%86%A0%EB%B0%8D.md">어플리케이션 브레인스토밍</a> 
-
-#### 2022
 - <a href = "https://github.com/NohGaSeong/TILandMEMOIR/blob/main/DevOps/Github%20Action.md">Github Action 을 정복해보자 </a>
 - <a href = "https://github.com/NohGaSeong/TILandMEMOIR/blob/main/DevOps/DevOps%EA%B8%B0%EB%B2%95.md">DevOps 업무 및 특징</a>
 ### Cloud
-#### 2021
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/VpcNetworks.md">VPC 네트워크에 대해 알아봅시다</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/ServerlessWebhosting.md">Amazon S3로 서버없는 정적 웹 호스팅 구축</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/Ec2-Lamp-Elb.md">EC2-LAMP-ELB 구성하기</a>
@@ -55,8 +51,6 @@
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%82%B9%EC%9D%98%20%EA%B8%B0%EB%B3%B8.md">네트워킹의 기본</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/(VPC)%20AWS%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%82%B9%EC%9D%98%20%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC.md
 ">(VPC) AWS네트워킹의 동작원리</a> 
-
-#### 2022
 - <a href = "https://github.com/NohGaSeong/TILandMEMOIR/blob/main/Cloud/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%98%20AWS%20%EB%B9%84%EC%9A%A9%EC%A0%88%EA%B0%90%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EB%B0%A9%EB%B2%95.md"> 스타트업의 AWS 비용절약을 위한 방법들</a>      
 - <a href = "https://github.com/NohGaSeong/TILandMEMOIR/blob/main/Cloud/%EA%B8%B0%EB%8A%A5%EB%8C%80%ED%9A%8C%20%20%ED%9E%8C%ED%8A%B8%ED%92%80%EC%9D%B4.md">우리는 기능대회를 준비하기로했어요 (과제 1번) </a>    
 ## FrontEnd
