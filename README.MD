@@ -106,6 +106,9 @@
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Python/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EB%82%A0%EA%B0%9C%20%EB%8B%AC%EA%B8%B0(%ED%81%B4%EB%9E%98%EC%8A%A4).md">파이썬에 날개를 달아보자 -  클래스 </a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Python/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EB%82%A0%EA%B0%9C%20%EB%8B%AC%EA%B8%B0(%EB%AA%A8%EB%93%88).md">파이썬에 날개를 달아보자 - 모듈 </a>
 
+### CS
+- <a href = "https://github.com/NohGaSeong/TILandMEMOIR/blob/main/Cs/c%23%EB%AC%B8%EB%B2%95%20%EB%AA%87%20%EA%B0%9C%20%EC%A0%95%EB%A6%AC.md">C# 문법 
+조금 알아보기 </a>
 ## Other
 ### GitHub
 - <a href = "https://github.com/NohGaSeong/TIL/tree/main/Other">백엔드를 시작하기 앞서 Github를 배워보자!</a>
