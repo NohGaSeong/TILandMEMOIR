@@ -28,6 +28,9 @@
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/DevOps/%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%8A%A4%ED%86%A0%EB%B0%8D.md">어플리케이션 브레인스토밍</a> 
 - <a href = "https://github.com/NohGaSeong/TILandMEMOIR/blob/main/DevOps/Github%20Action.md">Github Action 을 정복해보자 </a>
 - <a href = "https://github.com/NohGaSeong/TILandMEMOIR/blob/main/DevOps/DevOps%EA%B8%B0%EB%B2%95.md">DevOps 업무 및 특징</a>
+- <a href = "https://github.com/NohGaSeong/TILandMEMOIR/blob/main/DevOps/Docker%20%EB%8A%94%20%EB%AD%90%ED%95%98%EB%8A%94%20%EA%B3%A0%EB%9E%98%EC%9D%BC%EA%B9%8C%3F.md">도커는 뭐하는 고래일까?</a>
+- <a href = "https://github.com/NohGaSeong/TILandMEMOIR/blob/main/DevOps/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4%3F.md
+">고래를 공부하면 꼭 쿠버네티스가 나오더라</a>
 ### Cloud
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/VpcNetworks.md">VPC 네트워크에 대해 알아봅시다</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/ServerlessWebhosting.md">Amazon S3로 서버없는 정적 웹 호스팅 구축</a>
@@ -68,31 +71,33 @@
 
 ## BackEnd
 ### Server
-#### 2021
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/BackEnd/Server?.md">서버란?</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Server/RestAPI%3F.md">REST API?</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Server/C.R.U.D%3F.md">CRUD?</a>
 - <a href = "https://github.com/NohGaSeong/TILandMEMOIR/blob/main/Server/mvc%3F.md">MVC에 대해</a>
 - <a href = "https://github.com/NohGaSeong/TILandMEMOIR/blob/main/Server/envFile.md">.env</a>
 - <a href = "https://github.com/NohGaSeong/TILandMEMOIR/blob/main/Server/%ED%9A%8C%EC%9B%90%EC%9D%B8%EC%A6%9D%EB%B0%A9%EC%8B%9D.md">회원인증방식</a>
-#### 2022
 - <a href = "https://github.com/NohGaSeong/TILandMEMOIR/blob/main/Server/JSON%EC%9D%84%20%EB%B0%B0%EC%9B%8C%EB%B3%B4%EC%9E%90!.md">JSON 을 배워보자!</a>
 - <a href = "https://github.com/NohGaSeong/TILandMEMOIR/blob/main/Server/Array_Method.md">Array_Method</a>
 - <a href = "https://github.com/NohGaSeong/TILandMEMOIR/blob/main/Server/TestCode.md">Test Code</a>
+
 ### Node.js
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/NodeJs/NodeJs%3F.md">Node.Js?</a>
 
 ### Spring
 - <a href = "https://github.com/NohGaSeong/TILandMEMOIR/blob/main/Spring/aop.md">AOP</a>
+
 ### DB
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/MySQL/Conditional.md">조건문,연산자 문제 </a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/MySQL/11-15%20%EB%B0%A9%EA%B3%BC%ED%9B%84.md">오름차 내림차 정렬, 숫자함수 등등 </a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/MySQL/11-24%20%EB%B0%A9%EA%B3%BC%ED%9B%84.md">문자열 </a>
 - <a href = "https://github.com/NohGaSeong/TILandMEMOIR/blob/main/MySQL/DB%EC%9D%98%20%EC%A2%85%EB%A5%98.md">DB의 종류</a>
+- <a href = "https://github.com/NohGaSeong/TILandMEMOIR/blob/main/MySQL/RDBMS_VS_NoSQL.md">RDBMS와 NoSQL의 차이와 장단점</a>
 
 ### DJango
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/DJango/Django%EC%9D%98%20%EA%B8%B0%EC%B4%88%EB%A5%BC%20%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%901.md">DJango의 기초를 알아보자 1</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/DJango/DJango%EC%9D%98%20%EA%B8%B0%EC%B4%88%EB%A5%BC%20%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90%202.md">DJango의 기초를 알아보자 2</a>
+
 ## Programming Language
 ### Java
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Java/AbstractClass.md">추상 클래스</a>
@@ -106,9 +111,10 @@
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Python/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EB%82%A0%EA%B0%9C%20%EB%8B%AC%EA%B8%B0(%ED%81%B4%EB%9E%98%EC%8A%A4).md">파이썬에 날개를 달아보자 -  클래스 </a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Python/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EB%82%A0%EA%B0%9C%20%EB%8B%AC%EA%B8%B0(%EB%AA%A8%EB%93%88).md">파이썬에 날개를 달아보자 - 모듈 </a>
 
-### CS
+### C#
 - <a href = "https://github.com/NohGaSeong/TILandMEMOIR/blob/main/Cs/c%23%EB%AC%B8%EB%B2%95%20%EB%AA%87%20%EA%B0%9C%20%EC%A0%95%EB%A6%AC.md">C# 문법 
 조금 알아보기 </a>
+
 ## Other
 ### GitHub
 - <a href = "https://github.com/NohGaSeong/TIL/tree/main/Other">백엔드를 시작하기 앞서 Github를 배워보자!</a>
