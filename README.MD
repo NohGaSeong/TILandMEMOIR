@@ -119,7 +119,6 @@
 ### GitHub
 - <a href = "https://github.com/NohGaSeong/TIL/tree/main/Other">백엔드를 시작하기 앞서 Github를 배워보자!</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Other/%EB%B8%8C%EB%9E%9C%EC%B9%98%3F.md">협업에 필요한 브렌치 기능을 알아보자</a>
-- <a href = "">실제 협업 시나리오로 깃허브를 알아보자(마지막)</a>
 
 ### 회고록
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Other/Araboza_Memories.md">Araboza Project 회고록</a>
