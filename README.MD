@@ -33,6 +33,7 @@
 ">고래를 공부하면 꼭 쿠버네티스가 나오더라</a>
 - <a href = "https://github.com/NohGaSeong/TILandMEMOIR/blob/main/DevOps/%ED%85%8C%EB%9D%BC%ED%8F%BC.md">테라폼</a>
 - <a href="https://github.com/NohGaSeong/TILandMEMOIR/blob/main/DevOps/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4%20%EA%B8%B0%EC%B4%88_%EA%B5%AC%EC%84%B1%2C%EC%84%A4%EA%B3%84%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90.md">쿠버네티스 기초 - 구성/설계 아키텍처</a>
+- <https://github.com/NohGaSeong/TILandMEMOIR/blob/main/DevOps/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4%20%EA%B8%B0%EC%B4%88_%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8.md">쿠버네티스 기초 - 오브젝트</
 ### Cloud
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/VpcNetworks.md">VPC 네트워크에 대해 알아봅시다</a>
 - <a href = "https://github.com/NohGaSeong/TIL/blob/main/Cloud/ServerlessWebhosting.md">Amazon S3로 서버없는 정적 웹 호스팅 구축</a>
@@ -60,7 +61,6 @@
 - <a href = "https://github.com/NohGaSeong/TILandMEMOIR/blob/main/Cloud/%EA%B8%B0%EB%8A%A5%EB%8C%80%ED%9A%8C%20%20%ED%9E%8C%ED%8A%B8%ED%92%80%EC%9D%B4.md">우리는 기능대회를 준비하기로했어요 (과제 1번) </a>    
 - <a href = "https://github.com/NohGaSeong/TILandMEMOIR/blob/main/Cloud/EBS%3F.md">EBS란 </a>
 - <a href = "https://github.com/NohGaSeong/TILandMEMOIR/blob/main/Cloud/buildspec%EC%9D%B4%EB%9E%80%3F.md">Build Spec?</a>
-
 ### cloud 문서화
 - <a href = "https://github.com/NohGaSeong/TILandMEMOIR/blob/main/Cloud/Cloud%20%EB%AC%B8%EC%84%9C%ED%99%94/0.%20Cloud%20%EB%9E%80%3F.md">0. 클라우드란?</a>
 ## FrontEnd
